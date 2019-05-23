@@ -27,7 +27,7 @@ var chess = (function() {
 	oBoardsBox, bHumanSide = true,
 
 	// resizing vars
-	nDeskWidth = 800, nDeskHeight = 800, nFlatBVMargin = 12, // theese values are modificable
+	nDeskWidth = 850, nDeskHeight = 850, nFlatBVMargin = 12, // theese values are modificable
 	nFlatBoardSide = nDeskHeight - nFlatBVMargin, nPageX, nPageY, iBoardsBoxX, iBoardsBoxY, nDscrsX, nDscrsY, oFilm, nMinWidth = nMinHeight = 512,
 
 	// history motion picture
